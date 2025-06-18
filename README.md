@@ -70,3 +70,25 @@ Charts and pivot tables → Descriptive
 - Classification basics ```(Logistic Regression, Decision Trees)```
 - Model evaluation ```(accuracy, precision, recall, F1 score)```
 - Risk scoring, future event forecasting
+
+## 📦 STEP 8: Real Projects & Portfolio Building
+### Week 16–17
+- Project 1: Sales trend analysis → Descriptive
+- Project 2: Customer segmentation → Diagnostic
+- Project 3: Predictive churn model → Predictive
+(Optional advanced learners: Recommendation engine → Prescriptive)
+
+
+
+## 🧰 BONUS MODULES (Optional Deep Dives)
+- Power BI / Tableau Essentials → Descriptive & Diagnostic
+- Web scraping with Python → Data sourcing for all types
+- API Data Extraction → Data automation
+- Using ChatGPT & AI tools → Prescriptive use of AI for suggestions & insight generation
+
+
+## 🧑‍💻 Capstone Project & Certification
+- Choose your dataset
+- End-to-end analysis and presentation (choose 1–2 analysis types)
+- Peer review & feedback
+- Certificate of Completion + GitHub Portfolio Upload
