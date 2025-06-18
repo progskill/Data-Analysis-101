@@ -35,4 +35,25 @@ Charts and pivot tables → Descriptive
 - Aggregations, subqueries → Diagnostic
 - Hands-on querying from realistic databases
 
+## 📐 STEP 3: Data Wrangling & Cleaning
+### Week 7–8
+- Handling missing data, duplicates → Descriptive
+- Data transformation (reshaping, pivoting, merging)
+- Working with datetime and categorical variables
+- Diagnostic workflows: tracing the “why” behind data issues
+- Real-life dirty dataset projects
+
+
+## 📊 STEP 4: Exploratory Data Analysis (EDA)
+### Week 9–10
+- Summary statistics → ```Descriptive```
+- Visualizing distributions, trends, and outliers
+- Correlation analysis → ```Diagnostic```
+- Hands-on with ```seaborn, matplotlib, and plotly```
+
+## 🧠 STEP 5: Data-Driven Storytelling
+### Week 11
+- Turning insights into narratives
+- Visual communication → ```Descriptive & Diagnostic```
+- Building dashboards ```(Excel, Google Data Studio, Power BI)```
 
