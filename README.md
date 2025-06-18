@@ -57,3 +57,16 @@ Charts and pivot tables → Descriptive
 - Visual communication → ```Descriptive & Diagnostic```
 - Building dashboards ```(Excel, Google Data Studio, Power BI)```
 
+## 🧮 STEP 6: Statistics for Data Analysis
+### Week 12–13
+Descriptive vs inferential statistics
+Probability distributions → Descriptive
+Hypothesis testing, confidence intervals → Diagnostic
+Foundations for building predictive models
+
+🧠 STEP 7: Introduction to Predictive Analytics
+Week 14–15
+Linear regression → Predictive
+Classification basics (Logistic Regression, Decision Trees)
+Model evaluation (accuracy, precision, recall, F1 score)
+Risk scoring, future event forecasting
