@@ -76,15 +76,15 @@ Charts and pivot tables → Descriptive
 - Project 1: Sales trend analysis → Descriptive
 - Project 2: Customer segmentation → Diagnostic
 - Project 3: Predictive churn model → Predictive
-(Optional advanced learners: Recommendation engine → Prescriptive)
+```(Optional advanced learners: Recommendation engine → Prescriptive)```
 
 
 
 ## 🧰 BONUS MODULES (Optional Deep Dives)
-- Power BI / Tableau Essentials → Descriptive & Diagnostic
+- Power BI / Tableau Essentials → ```Descriptive & Diagnostic```
 - Web scraping with Python → Data sourcing for all types
-- API Data Extraction → Data automation
-- Using ChatGPT & AI tools → Prescriptive use of AI for suggestions & insight generation
+- API Data Extraction → ```Data automation```
+- Using ```ChatGPT & AI tools``` → Prescriptive use of ``AI for suggestions & insight generation``
 
 
 ## 🧑‍💻 Capstone Project & Certification
