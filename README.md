@@ -15,7 +15,8 @@ Types of data: structured vs unstructured
 Data analysis process: from question to insight
 Roles: Analyst vs Scientist vs Engineer
 
-Week 3: Spreadsheets for Analysis (Excel/Google Sheets)
+### Week 3: Spreadsheets for Analysis (Excel/Google Sheets)
 Data cleaning, sorting, and filtering → Descriptive
-Functions & formulas (VLOOKUP, INDEX-MATCH, IF, COUNTIF, etc.)
+Functions & formulas ```(VLOOKUP, INDEX-MATCH, IF, COUNTIF, etc.)```
 Charts and pivot tables → Descriptive
+
