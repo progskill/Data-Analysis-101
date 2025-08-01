@@ -92,6 +92,6 @@ Charts and pivot tables → Descriptive
 - End-to-end analysis and presentation (choose 1–2 analysis types)
 - Peer review & feedback
 - Certificate of Completion + GitHub Portfolio Upload
-- 
+
 
 ## Happy Coding!
