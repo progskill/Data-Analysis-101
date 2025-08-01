@@ -52,26 +52,26 @@ Charts and pivot tables → Descriptive
 - Hands-on with ```seaborn, matplotlib, and plotly```
 
 ## 🧠 STEP 5: Data-Driven Storytelling
-### Week 11
+### Lesson 11
 - Turning insights into narratives
 - Visual communication → ```Descriptive & Diagnostic```
 - Building dashboards ```(Excel, Google Data Studio, Power BI)```
 
-## 🧮 STEP 6: Statistics for Data Analysis
-### Week 12–13
+## 🧮 TOPIC 6: Statistics for Data Analysis
+### Lesson 12–13
 - Descriptive vs inferential statistics
 - Probability distributions → ```Descriptive```
 - Hypothesis testing, confidence intervals → Diagnostic
 - Foundations for building predictive models
 
-## 🧠 STEP 7: Introduction to Predictive Analytics
-### Week 14–15
+## 🧠 TOPIC 7: Introduction to Predictive Analytics
+### Lesson 14–15
 - Linear regression → ```Predictive```
 - Classification basics ```(Logistic Regression, Decision Trees)```
 - Model evaluation ```(accuracy, precision, recall, F1 score)```
 - Risk scoring, future event forecasting
 
-## 📦 STEP 8: Real Projects & Portfolio Building
+## 📦 TOPIC 8: Real Projects & Portfolio Building
 ### Week 16–17
 - Project 1: Sales trend analysis → Descriptive
 - Project 2: Customer segmentation → Diagnostic
