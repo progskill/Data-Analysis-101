@@ -72,7 +72,7 @@ Charts and pivot tables → Descriptive
 - Risk scoring, future event forecasting
 
 ## 📦 TOPIC 8: Real Projects & Portfolio Building
-### Week 16–17
+### Lesson 16–17
 - Project 1: Sales trend analysis → Descriptive
 - Project 2: Customer segmentation → Diagnostic
 - Project 3: Predictive churn model → Predictive
