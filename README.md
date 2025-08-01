@@ -23,20 +23,20 @@ Functions & formulas ```(VLOOKUP, INDEX-MATCH, IF, COUNTIF, etc.)```
 Charts and pivot tables → Descriptive
 
 ## 💻 WEEK 2: Programming for Data Analysis
-### Week 4–5: Python for Data Analysis
+### Lesson 4–5: Python for Data Analysis
 - Variables, data types, loops, and functions
 - Libraries: ``` pandas, numpy, matplotlib, seaborn ```
 - Importing & cleaning datasets (CSV, Excel, JSON)
 - Data summaries, trends → Descriptive
 - Anomaly detection → Diagnostic
 
-### Week 6: SQL for Data Analysis
+### Lesson 6: SQL for Data Analysis
 - SELECT, WHERE, GROUP BY, JOINs → Descriptive
 - Aggregations, subqueries → Diagnostic
 - Hands-on querying from realistic databases
 
-## 📐 STEP 3: Data Wrangling & Cleaning
-### Week 7–8
+## 📐 TOPIC 3: Data Wrangling & Cleaning
+### Lesson 7–8
 - Handling missing data, duplicates → Descriptive
 - Data transformation (reshaping, pivoting, merging)
 - Working with datetime and categorical variables
@@ -44,8 +44,8 @@ Charts and pivot tables → Descriptive
 - Real-life dirty dataset projects
 
 
-## 📊 STEP 4: Exploratory Data Analysis (EDA)
-### Week 9–10
+## 📊 WEEK 4: Exploratory Data Analysis (EDA)
+### Lesson 9–10
 - Summary statistics → ```Descriptive```
 - Visualizing distributions, trends, and outliers
 - Correlation analysis → ```Diagnostic```
