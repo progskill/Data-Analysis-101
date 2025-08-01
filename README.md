@@ -15,14 +15,14 @@ Types of data: structured vs unstructured
 Data analysis process: from question to insight
 Roles: Analyst vs Scientist vs Engineer
 
-### Week 3: Spreadsheets for Analysis (Excel/Google Sheets)
+### Lesson 3: Spreadsheets for Analysis (Excel/Google Sheets)
 Data cleaning, sorting, and filtering → Descriptive
 
 Functions & formulas ```(VLOOKUP, INDEX-MATCH, IF, COUNTIF, etc.)```
 
 Charts and pivot tables → Descriptive
 
-## 💻 STEP 2: Programming for Data Analysis
+## 💻 WEEK 2: Programming for Data Analysis
 ### Week 4–5: Python for Data Analysis
 - Variables, data types, loops, and functions
 - Libraries: ``` pandas, numpy, matplotlib, seaborn ```
