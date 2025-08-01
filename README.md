@@ -79,14 +79,6 @@ Charts and pivot tables → Descriptive
 ```(Optional advanced learners: Recommendation engine → Prescriptive)```
 
 
-
-## 🧰 BONUS MODULES (Optional Deep Dives)
-- Power BI / Tableau Essentials → ```Descriptive & Diagnostic```
-- Web scraping with Python → Data sourcing for all types
-- API Data Extraction → ```Data automation```
-- Using ```ChatGPT & AI tools``` → Prescriptive use of ``AI for suggestions & insight generation``
-
-
 ## 🧑‍💻 Capstone Project & Certification
 - Choose your dataset
 - End-to-end analysis and presentation (choose 1–2 analysis types)
