@@ -1,7 +1,7 @@
 # 📊 Data Analysis Mastery: Beginner to Pro
 Welcome to the full data analysis course
 
-## 🧱 STEP 1: Foundations of Data Analysis
+## 🧱 TOPIC 1: Foundations of Data Analysis
 ### 1. Week 1–2: Introduction to Data & Analytical Thinking
 What is data analysis?
 Types of data: structured vs unstructured
