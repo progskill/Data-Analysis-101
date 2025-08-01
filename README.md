@@ -1,5 +1,5 @@
 # 📊 Data Analysis Mastery: Beginner to Pro
-
+Welcome to the data analysis full course
 
 ## 🧱 STEP 1: Foundations of Data Analysis
 ### 1. Week 1–2: Introduction to Data & Analytical Thinking
