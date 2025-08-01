@@ -2,7 +2,7 @@
 Welcome to the full data analysis course
 
 ## 🧱 TOPIC 1: Foundations of Data Analysis
-### 1. Week 1–2: Introduction to Data & Analytical Thinking
+### 1. Lesson 1–2: Introduction to Data & Analytical Thinking
 What is data analysis?
 Types of data: structured vs unstructured
 #### 4 Types of Analysis:
